@@ -1,0 +1,156 @@
+@media(max-width: 1199px){
+	
+}
+
+@media(max-width: 999px){
+	
+}
+
+@media(max-width: 869px){
+	.listtt li{
+    margin-right: 0;
+    text-align: center;
+    width: 100%;
+    }
+    .top-header a{
+    padding: 8px 10px;
+   }
+   .banner-content h1 {
+    font-size: 3rem;
+	}.btn-custom {
+	    padding: 8px 24px;
+	}.align-section img {
+	    height: 400px;
+	}  .brand h1 {
+	    margin-bottom: 35px;
+	}
+}
+
+@media(max-width: 767px){
+	.banner-content h1 {
+    font-size: 36px;
+	}.banner-content h3 {
+	    font-size: 25px;
+	}
+	.btn-custom {
+	    padding: 6px 18px;
+	}.text h1,.brand h1 {
+	    font-size: 28px;
+	    letter-spacing: 3px;
+	}.align-section img {
+	    height: 350px;
+	}.align-section h3 {
+	    padding: 40px 0;
+	    font-size: 18px;
+	}.align-section .btn-custom {
+	    padding: 8px 24px;
+	}.list-section img {
+	    max-width: 215px;
+	}
+	
+}
+
+@media(max-width: 575px){
+	.listtt li {
+    padding-top: 5px;
+	}
+	.socialll .nav {
+	    justify-content: center;
+	}
+	.text span {
+	    line-height: 24px;
+	    font-size: 12px;
+	    word-spacing: 1px;
+	}
+	.footer-section h5 {
+    line-height: 40px;
+    font-size: 14px;
+    margin-bottom: 5px;
+ }
+	.footer-section h6 {
+	    font-size: 12px;
+	    margin-bottom: 10px;
+	}
+	.footer-section a {
+	    margin: 14px 0;
+	    font-size: 12px;
+	}
+	.footer-section {
+	    text-align: center;
+	}
+	.footer-section h4 {
+		font-size: 18px;
+	}.footer-section .container {
+    padding-top: 0;
+}.top-header {
+    display: none;
+}.gallery a {
+    display: none;
+}.gallery h2 {
+    bottom: 20px;
+    left: 30px;
+    font-size: 20px;
+}
+.gallery:hover h2{
+    opacity: 1;
+}
+.joom-section h1{
+    display: block;
+}
+}
+
+@media(max-width: 500px){
+	header ul li a {
+    padding: 0 10px !important;
+    font-size: 12px;
+ }
+	.banner-content h1 {
+	    font-size: 24px;
+	}
+	.banner-content h3 {
+	    font-size: 18px;
+	}
+	.btn-custom {
+	    padding: 5px 10px;
+	    margin-top: 5px;
+	    font-size: 12px;
+	}
+	.text h1,.brand h1 {
+	    font-size: 20px;
+	    letter-spacing: 2px;
+	    padding-bottom: 5px;
+	}
+	.align-section h3 {
+	    padding: 20px 0 10px;
+	    font-size: 16px;
+	}
+	.align-section .btn-custom {
+	    padding: 7px 15px;
+	    font-size: 12px;
+	}
+	.list-section h1 {
+	    font-size: 20px;
+	    letter-spacing: 2px;
+	    margin-bottom: 30px;
+	}
+	.logo a {
+	    font-size: 20px;
+	}
+	.click {
+	    bottom: 40px;
+	    right: 15px;
+	    width: 40px;
+	    height: 40px;
+	}
+	.click i {
+	    font-size: 18px;
+	}
+}
+
+@media(max-width: 420px){
+	header ul li a {
+    padding: 0 8px !important;
+ }
+	.text h1,.brand h1 {
+	}
+}
